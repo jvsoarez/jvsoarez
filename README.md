@@ -6,7 +6,7 @@
 💻 **I am open to job opportunities**
 
 <a href="https://www.linkedin.com/in/joaovictorsoares/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="joaovictorcpsa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:joaovictorcpsa@gmail.com,devjoaosoares@gmail.com?subject=Contato através do GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=jvsoarez&=true&theme=dark&include_all_commits=true&count_private=true)
