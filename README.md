@@ -9,9 +9,9 @@
 <a href="mailto:joaovictorcpsa@gmail.com,devjoaosoares@gmail.com?subject=Contato através do GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-![](https://github-readme-stats.vercel.app/api?username=jvsoarez&=true&theme=dark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=jvsoarez&show_icons=true&theme=white&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvsoarez&layout=compact&langs_count=7&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvsoarez&layout=compact&langs_count=7&theme=white)
 
 ### Core technologies
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
