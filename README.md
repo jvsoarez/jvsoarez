@@ -1,6 +1,6 @@
 ## 👋 Be welcome!
 
-**I majored in fullstack web development at trybe and study Software Engineering at IESB. Before migrating to a technology career, I was a speaker on sustainability Enel Brasil/AVSI Brasil.**
+**I majored in fullstack web development at Trybe and study Software Engineering at IESB. Before migrating to a technology career, I was a speaker on sustainability Enel Brasil/AVSI Brasil.**
 
 
 💻 **I am open to job opportunities**
